@@ -12,6 +12,9 @@ O1. apply knowledge and skills of information technology in project situations;
 
 ### Materials
 
+> [!NOTE]
+> TODO add link to suitable training material here
+
 ## Implementation
 
 ### Class Agenda
@@ -29,8 +32,13 @@ Presentation and feedback of the plans will be done in class.
 
 ### Module Assignment
 
-The final product pitch video is assessed as part of deliverable 3 for CITS5206.
+Create a pitch video for your software project.  
+A pitch video assessed as part of the final deliverable for several capstone units.
 
 ## Review
 #### Lessons Learnt
 #### Links
+
+> [!NOTE]
+> TODO add links to examples of student videos from capstone units
+
